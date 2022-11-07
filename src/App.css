@@ -1,3 +1,8 @@
+*{
+  background-color: #FFFFFF;
+}
+
+
 .App {
   text-align: center;
 }
@@ -13,6 +18,19 @@
   }
 }
 
+.colour{
+  background-color : white !important;
+  border-color: #FFFFFF;
+  position: absolute;
+  width: 1314px;
+height: 738px;
+left: 270px;
+top: 318px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
